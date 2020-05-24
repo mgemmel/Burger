@@ -1,0 +1,13 @@
+export const ADD = "ADD";
+export const REMOVE = "REMOVE";
+export const SET_INGREDIENTS = "SET_INGREDIENTS";
+export const SET_INGREDIENTS_FAIL = "SET_INGREDIENTS_FAIL";
+export const SAVE_ORDER = "SAVE_ORDER";
+export const SAVE_ORDER_FAIL = "SAVE_ORDER_FAIL";
+export const LOADING = "LOADING";
+export const LOAD_ORDERS = "LOAD_ORDERS";
+export const LOAD_ORDERS_FAIL = "LOAD_ORDERS_FAIL";
+export const AUTH_LOADING = "AUTH";
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const AUTH_FAIL = "AUTH_FAIL";
+export const LOGOUT = "LOGOUT";
